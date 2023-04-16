@@ -1,3 +1,6 @@
+Hello there, Welcome!
+The IoT-based system collects real-time data from Zigbee-enabled sensors, sends it to the cloud via HTTP protocol, and stores it in an SQL database. A web application is then used to access and analyze the data, enabling remote monitoring and data analysis for improved decision-making and operations.
+
 For Running this project there are some prerequisite for set up of environment
 1. Download & Install Xampp for running app locally
 2. Download & Install Python3
