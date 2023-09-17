@@ -28,3 +28,5 @@ Steps:-
 7. for checking new entries open "http://localhost/project_files/main.php" will be seen here and for checking data through filters till current date you can click on "see Other Details".
 
 8. Send data to gateway through putty and on gateway copy the file named "recieve_from_node.py" which in in data entry folder. Run command "python recieve_from_node.py" on gateway so that data will be recieved on the gateway through sensor. Run "python send_data_to_vm_from_gateway.py" on another terminal on gateway. before running file beware of changing ip address on cloud vm in the python file.
+
+9. For genrating Insights run the file name "insights_genration.py" which will genrate insights and store the genrated data to Insight folder in png image format
